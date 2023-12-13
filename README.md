@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zulfiqar115
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Python,Next.js
 - 💞️ I’m looking to collaborate on learning .
 - 📫 How to reach me +923009893115...
 
