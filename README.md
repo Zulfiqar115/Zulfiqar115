@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Typescript
 - 🌱 I’m currently learning Python,Next.js
-I,m currently learning applied genarative AI engerning  
+- 🌱 I,m currently learning applied genarative AI engerning  
 - 💞️ I’m looking to collaborate on learning .
 - 📫 How to reach me +923009893115...
 
